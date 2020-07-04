@@ -1,4 +1,4 @@
-# TourSathiBackend
+## TourSathiBackend
 This repository contains the backend of tourSathi android app. Its written in Javascript and makes use of nodeJS and ExpressJS. Description of app is as follows:
 An android app that makes your travelling (in group) comfortable and much easier to manage.
 Here in this android app we have tried to solve the some of the major issues which are faced during travelling especially in group.
@@ -11,3 +11,21 @@ This feature shows the location of each member of the group on the map which can
 3.) Chat with each other – We added this as a mandatory feature which connects the people in the group. All the members are kept in same chat-room.
 
 4.) Split the balances -  Although there are apps which performs splitting of expenses during travelling but we thought of collaborating that feature into this to make user experience much better and thus this feature makes this app an adequate app to be used by travellers.
+
+## Tech Stack
+# Backend
+Node.js and Express.js 
+Firebase for storing the live location of the user
+
+# DataBase
+postgresql
+
+Knex.js to connect the database and the server
+
+# Frontend
+Java and XML
+
+Google map API for showing live location
+
+Pusher API to simultaneously inform all user
+about change in location, uploading a new image and about the latest chat
