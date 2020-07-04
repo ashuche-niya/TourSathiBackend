@@ -15,7 +15,7 @@ This feature shows the location of each member of the group on the map which can
 ## Tech Stack
 # Backend
 Node.js and Express.js 
-Firebase for storing the live location of the user
+And Firebase for storing the live location of the user
 
 # DataBase
 postgresql
