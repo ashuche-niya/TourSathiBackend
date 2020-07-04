@@ -1,5 +1,6 @@
 # TourSathiBackend
-An android app that makes your travelling (in group) comfortable and  much easier to manage.
+This repository contains the backend of tourSathi android app. Its written in Javascript and makes use of nodeJS and ExpressJS. Description of app is as follows:
+An android app that makes your travelling (in group) comfortable and much easier to manage.
 Here in this android app we have tried to solve the some of the major issues which are faced during travelling especially in group.
 
 1.) Track of each other's location
